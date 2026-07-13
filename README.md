@@ -1,5 +1,9 @@
 ## Hii, I'm Harleen👋🏻
 
+🌱I'm currently learning Python with Data Science...
+🔭I'm currently working on Streamlit Dashboards!
+
+
 <!--
 **HARLEENKV/HARLEENKV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
